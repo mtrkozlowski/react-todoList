@@ -1,0 +1,38 @@
+/* ==========================================================================
+   TASK SECTION STYLES
+   ========================================================================== */
+
+.list{
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 5px;
+    background: linear-gradient(to right, #b993d6, #8ca6db);
+}
+
+.list p{
+    padding: 10px;
+    position: relative;
+}
+
+.list p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.faicons{
+    margin: 0 5px;
+    font-size: 15px;
+}
+
+.list p input{
+    background-color: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+}
+
+.list p input{
+    outline: none;
+}
